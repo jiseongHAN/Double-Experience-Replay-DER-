@@ -51,13 +51,15 @@ python lane.py
 
 # Result
 
-YeongDong Bridge Agent (LEFT, white car) Lane Change Agent (RIGHT, white car)
+- YeongDong Bridge Agent (LEFT, white car) 
+- Lane Change Agent (RIGHT, white car)
 <p float="left">
   <img src="asset/yd.gif" width="400px" height="400px"/>
   <img src="asset/lane.gif" width="400px" height="400px"/> 
 </p>
 
-YeongDong Bridge (DQN, DER, PER)     Ring Network (DQN, DER, PER)
+- YeongDong Bridge (LEFT)
+- Ring Network (RIGHT)
 
 <p float="left">
   <img src="asset/yddg.png" width="400px" height="300px"/ title="Yeongdong Bridge">
