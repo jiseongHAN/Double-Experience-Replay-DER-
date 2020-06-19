@@ -27,6 +27,14 @@ This implementaion contains:
 Using Uniform sample strategy and TD value based sampling method. \
 As a training algorithm we use Deep Q-learning (DQN)
 
+# Requirements
+* [Pytorch](https://pytorch.org)
+* [Flow](https://flow-project.github.io/)
+* Numpy
+* [Gym](http://gym.openai.com/)
+* TensorboardX
+
+
 # Usage
 
 To train SUMO with ring environment
