@@ -6,6 +6,7 @@ This method mixes two stratesgies for sampling experiences which will be stored 
 You could choose strategies whatever you want, but this paper we use temperal difference (TD) value based sample strategy and uniform sample strategy.
 
 
+
 # Contents
 This implementaion contains:
 
@@ -14,6 +15,9 @@ This implementaion contains:
 * Ring Network Environment
 
 *YeongDong Bridge Environment does not supported.
+
+![example](asset/4.png)
+![example2](asset/5.png)
 
 # Method
 
