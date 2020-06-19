@@ -17,8 +17,9 @@ This implementaion contains:
 **YeongDong Bridge Environment does not supported.
 
 <p float="left">
-  <img src="asset/4.png" width="400px" height="300px"/>
-  <img src="asset/5.png" width="400px" height="300px"/> 
+  <img src="asset/4.png" width="300px" height="300px"/>
+  <img src="asset/5.png" width="300px" height="300px"/> 
+  <img src="asset/ringex.png" width="300px" height="300px"/> 
 </p>
 
 # Method
@@ -39,6 +40,17 @@ python lane.py
 ```
 
 # Result
-![lane](asset/lanechange.gif)
-![yd](asset/yeongdong.gif)
+
+YeongDong Bridge Agent (LEFT, white car) Lane Change Agent (RIGHT, white car)
+<p float="left">
+  <img src="asset/yd.gif" width="400px" height="400px"/>
+  <img src="asset/lane.gif" width="400px" height="400px"/> 
+</p>
+
+YeongDong Bridge (DQN, DER, PER)     Ring Network (DQN, DER, PER)
+
+<p float="left">
+  <img src="asset/yddg.png" width="400px" height="300px"/ title="Yeongdong Bridge">
+  <img src="asset/ring.png" width="400px" height="300px"/ title="Ring Network"> 
+</p>
 
