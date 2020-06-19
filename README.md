@@ -31,11 +31,13 @@ As a training algorithm we use Deep Q-learning (DQN)
 
 To train SUMO with ring environment
 ```
+cd ring
 python ring.py
 ```
 
 To train SUMO with Lane Change environment
 ```
+cd lanechange
 python lane.py
 ```
 
