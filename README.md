@@ -1,4 +1,4 @@
-# Double-Experience-Replay-DER-
+# Double Experience Replay (DER)
 
 <b>Pytorch implementaion of Double_Experience_Replay (DER)</b>
 
@@ -25,3 +25,20 @@ This implementaion contains:
 
 Using Uniform sample strategy and TD value based sampling method. \
 As a training algorithm we use Deep Q-learning (DQN)
+
+# Usage
+
+To train SUMO with ring environment
+```
+python ring.py
+```
+
+To train SUMO with Lane Change environment
+```
+python lane.py
+```
+
+# Result
+![lane](asset/lanechange.gif)
+![yd](asset/yeongdong.gif)
+
